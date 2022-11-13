@@ -13,7 +13,7 @@ import SearchProduct from "./components/SearchProduct";
 import UserProfile from "./components/UserProfile";
 import WishList from "./components/WishList";
 import ProtectedRoute from "./Routes/ProtectedRoute";
-
+console.log("Hello world")
 function App() {
   return (
     <div className="App">
