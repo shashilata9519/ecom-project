@@ -164,5 +164,4 @@ export const updateUserProfile=(response)=>async(dispatch,getState)=>{
     }
 }
 
-// function myApp({ist:hjhghj,hghg})
- // class genric 
+

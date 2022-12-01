@@ -18,7 +18,7 @@ export const Type = {
    -price search, -> done
    -page,
    -category
-   http://localhost:8000/api/product/showproduct?name="vijay"&lastname="gupta"
+   
 */
 
 
